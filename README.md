@@ -6,7 +6,6 @@ John Philip T. Estobo Portfolio
   alt="Alternative Text"
 />
 Example:
-<!-- <img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/> -->
+<img
+  src="https://wakatime.com/share/@philip23/83f925db-ff03-4ce3-9ed3-adeacac79770.svg"
+/>
