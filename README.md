@@ -13,14 +13,14 @@
 
 - 📄 Know about my experiences [https://johnphilipestobo.me/documents/MyResume.pdf](https://johnphilipestobo.me/documents/MyResume.pdf)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/john-philip-estobo-b99175239?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bahitxyvutvs4vkgvu2ldxg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/john-philip-estobo-b99175239?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bahitxyvutvs4vkgvu2ldxg%3d%3d" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@johnphilipestobo9745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@johnphilipestobo9745" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
@@ -36,6 +36,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=philipestobo23&show_icons=true&locale=en&layout=compact" alt="philipestobo23" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=philipestobo23&show_icons=true&locale=en&layout=compact" alt="philipestobo23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=philipestobo23&show_icons=true&locale=en" alt="philipestobo23" /></p>
