@@ -1,6 +1,3 @@
-# iamphilip
-John Philip T. Estobo Portfolio
-
 
 <h1 align="center">Hi 👋, I'm John Philip Toledo Estobo</h1>
 <h3 align="center">A passionate Web developer from Philippines</h3>
