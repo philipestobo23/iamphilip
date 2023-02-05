@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=philipestobo23&label=Profile%20views&color=0e75b6&style=flat" alt="philipestobo23" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philipestobo23" alt="philipestobo23" /></a> </p> -->
-
+<p align="center">
 - 🌱 I’m currently learning **Laravel and Javascript**
 
 - 👨‍💻 All of my projects are available at [https://johnphilipestobo.me/](https://johnphilipestobo.me/)
@@ -12,7 +12,7 @@
 - 📫 How to reach me **johnestobo23@gmail.com**
 
 - 📄 Know about my experiences [https://johnphilipestobo.me/documents/MyResume.pdf](https://johnphilipestobo.me/documents/MyResume.pdf)
-
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/john-philip-estobo-b99175239?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bahitxyvutvs4vkgvu2ldxg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/john-philip-estobo-b99175239?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bahitxyvutvs4vkgvu2ldxg%3d%3d" height="30" width="40" /></a>
