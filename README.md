@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Laravel and Javascript**
 
-- 👨‍💻 All of my projects are available at [https://johnphilipestobo.me/](https://philipestobo23-github-io.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://philipestobo23-github-io.vercel.app/](https://philipestobo23-github-io.vercel.app/)
 
 - 📫 How to reach me **johnestobo23@gmail.com**
 
-- 📄 Know about my experiences [https://johnphilipestobo.me/documents/MyResume.pdf]([https://johnphilipestobo.me/documents/MyResume.pdf](https://philipestobo23-github-io.vercel.app/documents/JohnPhilip_T_Estobo_CV.pdf))
+- 📄 Know about my experiences [https://philipestobo23-github-io.vercel.app/documents/JohnPhilip_T_Estobo_CV.pdf](https://philipestobo23-github-io.vercel.app/documents/JohnPhilip_T_Estobo_CV.pdf)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
