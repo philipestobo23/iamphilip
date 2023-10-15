@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **johnestobo23@gmail.com**
 
-- 📄 Know about my experiences [https://philipestobo23-github-io.vercel.app/documents/JohnPhilip_T_Estobo_CV.pdf](https://philipestobo23-github-io.vercel.app/documents/JohnPhilip_T_Estobo_CV.pdf)
+- 📄 Know about my experiences [https://philipestobo23-github-io.vercel.app/documents/JohnPhilip_T_Estobo_CV.pdf/](https://philipestobo23-github-io.vercel.app/documents/JohnPhilip_T_Estobo_CV.pdf)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
