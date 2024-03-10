@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Philip Toledo Estobo</h1>
-<h3 align="center">A passionate Web developer from Philippines</h3>
+<h3 align="center">A Full time Computer Programmer 1 at Provincial ICT Unit</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=philipestobo23&label=Profile%20views&color=0e75b6&style=flat" alt="philipestobo23" /> </p>
 
