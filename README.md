@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered Content</title>
+    <style>
+        .center {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="center">
 <h1 align="center">Hi 👋, I'm John Philip Toledo Estobo</h1>
 <h3 align="center">A Full time Computer Programmer 1 at Provincial ICT Unit</h3>
 
@@ -28,5 +42,7 @@
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+</body>
+</html>
 
