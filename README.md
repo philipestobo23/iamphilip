@@ -4,6 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=philipestobo23&label=Profile%20views&color=0e75b6&style=flat" alt="philipestobo23" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philipestobo23" alt="philipestobo23" /></a> </p> -->
+[![](https://visitcount.itsvg.in/api?id=philipestobo23&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 🌱 I’m currently learning Laravel and Javascript<br><br>👨‍💻 All of my projects are available at https://philipestobo23-github-io.vercel.app/<br><br>📫 How to reach me johnestobo23@gmail.com<br><br>📄 Know about my experiences https://philipestobo23-github-io.vercel.app/documents/JohnPhilip_T_Estobo_CV.pdf/
@@ -26,7 +27,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=philipestobo23&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=philipestobo23&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
